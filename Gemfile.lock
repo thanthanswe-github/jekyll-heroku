@@ -24,7 +24,11 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   RedCloth
   jekyll
+
+BUNDLED WITH
+   2.2.29
